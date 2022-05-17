@@ -1,2 +1,2 @@
 # Basics
-Basics Module tasks
+My SiftUni Basics Module tasks
